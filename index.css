@@ -1,0 +1,29 @@
+/* body{
+    position: relative;
+} */
+
+/* .header_img{
+    width: 100%; 
+    z-index: -1; 
+    display: flex;
+} */
+
+.header_txt{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+/* .main_contant{
+    display: flex;
+} */
+
+/* ul {
+  list-style-type: none;
+} */
+
+.list_contant{
+    display: flex;
+    width: 15vw;
+    flex-direction: column;
+}
